@@ -15,7 +15,7 @@ namespace Test_Asp.Net.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application description page. Master vetva";
 
             return View();
         }
